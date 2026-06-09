@@ -5,3 +5,4 @@ vless://89e808ca-ac12-4e05-a646-61024931c213@66.81.247.155:443?allowInsecure=1&a
 vless://bd038dd9-5539-417e-b86a-0ed15c9b276e@188.114.97.6:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.EBRiPuzMZlhAaeWEz-ATMLsF5emk-ICgMx7ooVzw4Vc&host=cdn.gazol.top&path=%2Fprivet&security=tls&sni=cdn.gazol.top&type=ws#5
 vless://292a9789-075a-4969-8597-cacb6cc2f719@45.130.125.162:8443?alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=vi.mojaz-persian-music.ir&mode=auto&path=%2F%3Fed%3D80&security=tls&sni=vi.mojaz-persian-music.ir&type=xhttp#
 22
+222222
